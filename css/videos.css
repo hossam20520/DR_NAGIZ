@@ -1,0 +1,22 @@
+.vid{
+    margin-top: 50px;
+    text-align: center;
+    
+ overflow: hidden
+}
+
+.vid p{
+    color: #333;
+    margin-top: 20px;
+    text-align: center
+}
+
+video{
+    border: 2px solid #333
+}
+
+
+.footer {
+    margin-top: 75px;
+	overflow-y:hidden;
+}

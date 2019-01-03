@@ -1,0 +1,63 @@
+footer{
+    bottom:0;
+    left: 0;
+    width: 100%;
+    color: #fff;
+}
+
+.footer{ 
+    padding: 30px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    background-color: #333;
+    width: 100%;
+}
+.footer .container{
+    background-color: #333;
+    padding: 0;
+}
+.social{
+    
+    text-align: center;
+}
+
+.social a{
+    color: #fff;
+    font-size: 30px;
+    padding: 5px 10px;
+    transition: .5s;
+    margin-top: 40px;
+}
+
+.social a:hover{
+    color: #FBC98C;
+    transform: scale(1.3);
+    
+}
+
+.logo{
+    text-align: center;
+    
+}
+
+.logo img{
+    height: 130px;
+    
+}
+
+.about{
+    text-align: center;
+    margin-top: 10px;
+}
+
+/*  783px */
+
+@media screen and (max-width: 783px){
+    #map{
+        min-height: 120px;
+    }
+    .instructors{
+        margin-bottom: 780px; 
+    }
+}
